@@ -1,0 +1,24 @@
+C:\Users\R M G\Desktop\CommandsBot\Server\bin\Debug\Server.exe.config
+C:\Users\R M G\Desktop\CommandsBot\Server\bin\Debug\Server.exe
+C:\Users\R M G\Desktop\CommandsBot\Server\bin\Debug\Server.pdb
+C:\Users\R M G\Desktop\CommandsBot\Server\bin\Debug\CommunicationClassLibrary.dll
+C:\Users\R M G\Desktop\CommandsBot\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\R M G\Desktop\CommandsBot\Server\bin\Debug\CommunicationClassLibrary.pdb
+C:\Users\R M G\Desktop\CommandsBot\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\R M G\Desktop\CommandsBot\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\R M G\Desktop\CommandsBot\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\R M G\Desktop\CommandsBot\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\R M G\Desktop\CommandsBot\Server\obj\Debug\Server.exe
+C:\Users\R M G\Desktop\CommandsBot\Server\obj\Debug\Server.pdb
+D:\MVS\III year\CommandsBot\Server\bin\Debug\Server.exe.config
+D:\MVS\III year\CommandsBot\Server\bin\Debug\Server.exe
+D:\MVS\III year\CommandsBot\Server\bin\Debug\Server.pdb
+D:\MVS\III year\CommandsBot\Server\bin\Debug\CommunicationClassLibrary.dll
+D:\MVS\III year\CommandsBot\Server\bin\Debug\Newtonsoft.Json.dll
+D:\MVS\III year\CommandsBot\Server\bin\Debug\CommunicationClassLibrary.pdb
+D:\MVS\III year\CommandsBot\Server\bin\Debug\Newtonsoft.Json.xml
+D:\MVS\III year\CommandsBot\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\MVS\III year\CommandsBot\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\MVS\III year\CommandsBot\Server\obj\Debug\Server.csproj.CopyComplete
+D:\MVS\III year\CommandsBot\Server\obj\Debug\Server.exe
+D:\MVS\III year\CommandsBot\Server\obj\Debug\Server.pdb
